@@ -1,0 +1,31 @@
+HOSPITAL DATA ANALYSIS
+
+Problems We solved in this Project :
+1. Demographic Analysis
+    * Calculate the average age of patients by gender.
+    * Find the distribution of patients across different states (count per state).
+    * Identify the top 5 cities with the most patients.
+2. Age Group Analysis
+    * Categorize patients into age groups (e.g., 0-18, 19-35, 36-50, 51-65, 65+) and count the number of patients in each group.
+    * Compare the gender distribution within each age group.
+3. Email Domain Analysis
+    * Extract the domain from the email addresses (e.g., datacourse.com) and count how many patients use each domain.
+    * Are there any invalid or unusual email domains?
+4. State and City Insights
+    * Which state has the highest number of patients?
+    * For the state with the most patients, what is the most common city?
+5. Duplicate or Unique Patients
+    * Check if there are any duplicate PatientID or PatientNumber entries.
+    * Are there patients with the same first and last name? If so, how many?
+6. Age and Gender Correlation
+    * Is there a correlation between age and gender in this dataset? (e.g., are females generally older than males?)
+7. Outlier Detection
+    * Are there any patients with unusually high or low ages (e.g., age > 100 or age < 1)?
+    * How many patients are under 18 years old?
+8. Name Analysis
+    * What are the top 5 most common first names?
+    * What are the top 5 most common last names?
+9. Missing Data Check
+    * Are there any missing values in the dataset? If so, in which columns?
+10. Advanced: Patient Clustering
+    * Use clustering (e.g., K-means) to group patients based on age and location (state/city).
